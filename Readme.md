@@ -1,6 +1,6 @@
 # Anime Website
 
-![App Screenshot](https://static.vecteezy.com/system/resources/thumbnails/033/662/051/small/cartoon-lofi-young-manga-style-girl-while-listening-to-music-in-the-rain-ai-generative-photo.jpg)
+Abra o Projeto completo por essa pasta ( https://drive.google.com/drive/folders/1WblguqCB3jdATxckC7kxb3l2eRc6QsZA?usp=drive_link )
 
 ## Summary Of the Project
 This is a shortcut to access your favourite anime series with your preferred providers, all in sync with the selected animes in your MyAnimeList profile.
